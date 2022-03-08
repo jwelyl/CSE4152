@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  RollingDice.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 mid\실습1\week1_2\RollingDice.cpp(19,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+RollingDice.obj : error LNK2019: "public: __cdecl SystemMessageMap::SystemMessageMap(void (__cdecl*)(int,struct tagPOINT),void (__cdecl*)(int,struct tagPOINT),void (__cdecl*)(int,struct tagPOINT),void (__cdecl*)(int,int,void *),void (__cdecl*)(void))" (??0SystemMessageMap@@QEAA@P6AXHUtagPOINT@@@Z11P6AXHHPEAX@ZP6AXXZ@Z)"void __cdecl `dynamic initializer for 'g_system_map''(void)" (??__Eg_system_map@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+RollingDice.obj : error LNK2019: "public: virtual __cdecl SystemMessageMap::~SystemMessageMap(void)" (??1SystemMessageMap@@UEAA@XZ)"void __cdecl `dynamic atexit destructor for 'g_system_map''(void)" (??__Fg_system_map@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+RollingDice.obj : error LNK2019: "void __cdecl EasyAPI_Tipsware::TextOutW(int,int,char const *,...)" (?TextOutW@EasyAPI_Tipsware@@YAXHHPEBDZZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+RollingDice.obj : error LNK2019: "void * __cdecl EasyAPI_Tipsware::SelectPenObject(unsigned long,int,int)" (?SelectPenObject@EasyAPI_Tipsware@@YAPEAXKHH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+RollingDice.obj : error LNK2019: "void __cdecl EasyAPI_Tipsware::SetTextColor(unsigned long)" (?SetTextColor@EasyAPI_Tipsware@@YAXK@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+RollingDice.obj : error LNK2019: "void __cdecl EasyAPI_Tipsware::ShowDisplay(int)" (?ShowDisplay@EasyAPI_Tipsware@@YAXH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: WinMain"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+DSH_EasyWin32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 mid\실습1\week1_2\x64\Debug\ExamWin32.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
