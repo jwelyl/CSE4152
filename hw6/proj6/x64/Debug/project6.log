@@ -1,0 +1,47 @@
+﻿  homework3_1.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(37,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(38,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(40,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(46,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(53,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(33,13): warning C4101: 'x1' :참조되지 않은 지역 변수입니다.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(33,21): warning C4101: 'x3' :참조되지 않은 지역 변수입니다.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(33,9): warning C4101: 'x0' :참조되지 않은 지역 변수입니다.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\homework3_1.cpp(33,17): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+  homework3_2.cpp
+  homework3_3.cpp
+  homework3_4.cpp
+  main.cpp
+  practice3_1.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_1.cpp(5,16): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_1.cpp(5,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  practice3_2.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(27,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(28,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(30,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(36,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(42,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_2.cpp(57,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_3.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_3.cpp(38,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_4.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_4.cpp(38,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_5.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_5.cpp(29,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_6.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_6.cpp(37,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_7.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_7.cpp(27,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_8.cpp
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\practice3_8.cpp(42,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+practice3_1.obj : error LNK2019: gespp_"void __cdecl practice3_1(void)" (?practice3_1@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+practice3_1.obj : error LNK2019: solve_"void __cdecl practice3_1(void)" (?practice3_1@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+practice3_2.obj : error LNK2019: rpoly_"void __cdecl practice3_2(void)" (?practice3_2@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+practice3_3.obj : error LNK2019: hybrj1_"void __cdecl practice3_3(void)" (?practice3_3@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+practice3_4.obj : error LNK2001: 확인할 수 없는 외부 기호 hybrj1_
+practice3_6.obj : error LNK2001: 확인할 수 없는 외부 기호 hybrj1_
+practice3_8.obj : error LNK2001: 확인할 수 없는 외부 기호 hybrj1_
+practice3_5.obj : error LNK2019: hybrd1_"void __cdecl practice3_5(void)" (?practice3_5@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+practice3_7.obj : error LNK2001: 확인할 수 없는 외부 기호 hybrd1_
+C:\Users\korei\Desktop\7학기 강의자료(pdf)\고급소프트웨어실습1 fin\과제6\proj6\x64\Debug\project6.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
